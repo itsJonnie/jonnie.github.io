@@ -1,6 +1,10 @@
-# jonnie.github.io
+# JS
 
-## This is a test
+## Interests:
 
+Data Science
+Machine Learning
+Deep Learning
+Basketball
 
 ![Banner 1.png](Banner1.png)
